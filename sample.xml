@@ -1,0 +1,490 @@
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+
+	<CoIDs>
+
+		<CoID Type="RepNo">A5EE4</CoID>
+
+		<CoID Type="CompanyName">NIPPO CORPORATION</CoID>
+
+	</CoIDs>
+
+	<Issues>
+
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+
+			<IssueID Type="Ticker">1881</IssueID>
+
+			<IssueID Type="ISIN">JP3750200002</IssueID>
+
+			<IssueID Type="RIC">1881.T</IssueID>
+
+			<IssueID Type="DisplayRIC">1881.T</IssueID>
+
+			<IssueID Type="InstrumentPI">267326</IssueID>
+
+			<IssueID Type="QuotePI">722072</IssueID>
+
+			<Exchange Code="TYO" Country="JPN">Tokyo Stock Exchange</Exchange>
+
+		</Issue>
+
+	</Issues>
+
+	<CoGeneralInfo>
+
+		<CoStatus Code="1">Active</CoStatus>
+
+		<CoType Code="EQU">Equity Issue</CoType>
+
+		<LastModified>2019-11-15</LastModified>
+
+		<LatestAvailableAnnual>2019-03-31</LatestAvailableAnnual>
+
+		<LatestAvailableInterim>2019-09-30</LatestAvailableInterim>
+
+		<Employees LastUpdated="2019-03-31">6087</Employees>
+
+		<SharesOut Date="2019-09-30" TotalFloat="51115972.0">119086487.0</SharesOut>
+
+		<CommonShareholders Date="2019-03-31">3520</CommonShareholders>
+
+		<ReportingCurrency Code="JPY">Yen</ReportingCurrency>
+
+		<MostRecentExchange Date="2019-11-27">109.55</MostRecentExchange>
+
+	</CoGeneralInfo>
+
+	<TextInfo>
+
+		<Text Type="Business Summary" lastModified="2019-05-03T04:38:41">NIPPO CORPORATION is a company mainly engaged
+			in the construction business, as well as the manufacture and sale of asphalt mixtures. The Construction
+			segment is engaged in the engineering work business focusing on paving work, as well as construction work
+			business. The Manufacture and Sale segment manufactures and sells asphalt mixtures, emulsion and other
+			paving materials. The Development segment is engaged in the development of building lands and the
+			subdivision sale of condominium. The Others segment is involved in the operation of golf courses and hotels,
+			the leasing of construction machinery, and other businesses.
+		</Text>
+
+		<Text Type="Financial Summary" lastModified="2019-11-15T21:51:50">BRIEF: For the six months ended 30 September
+			2019, NIPPO CORPORATION revenues increased 10% to Y190.02B. Net income applicable to common stockholders
+			increased 5% to Y7.96B. Revenues reflect Ordinary civil engineering and construction industry segment
+			increase of 29% to Y35.85B, Construction Business segment increase of 15% to Y30.67B, Civil engineering
+			projects pavement segment increase of 4% to Y87.47B.
+		</Text>
+
+	</TextInfo>
+
+	<contactInfo lastUpdated="2019-11-15T21:51:58">
+
+		<streetAddress line="1">1-19-11, Kyobashi</streetAddress>
+
+		<streetAddress line="2"></streetAddress>
+
+		<streetAddress line="3"></streetAddress>
+
+		<city>CHUO-KU</city>
+
+		<state-region>TKY</state-region>
+
+		<postalCode>104-8380</postalCode>
+
+		<country code="JPN">Japan</country>
+
+		<contactName>Shoichiro Ito</contactName>
+
+		<contactTitle>Director of Accounting</contactTitle>
+
+		<phone>
+
+			<phone type="mainphone">
+
+				<countryPhoneCode>81</countryPhoneCode>
+
+				<city-areacode>3</city-areacode>
+
+				<number>35636751</number>
+
+			</phone>
+
+			<phone type="mainfax">
+
+				<countryPhoneCode>81</countryPhoneCode>
+
+				<city-areacode>3</city-areacode>
+
+				<number>35677058</number>
+
+			</phone>
+
+			<phone type="contactphone">
+
+				<countryPhoneCode>81</countryPhoneCode>
+
+				<city-areacode>3</city-areacode>
+
+				<number>35636752</number>
+
+			</phone>
+
+		</phone>
+
+	</contactInfo>
+
+	<webLinks lastUpdated="2018-07-11T10:15:27">
+		<webSite mainCategory="Home Page">https://www.nippo-c.co.jp/</webSite>
+		<eMail mainCategory="Company Contact/E-mail"></eMail>
+	</webLinks>
+
+	<peerInfo lastUpdated="2019-11-15T21:51:58">
+
+		<IndustryInfo>
+
+			<Industry type="TRBC" order="1" reported="0" code="5220102010" mnem="">Construction &amp; Engineering -
+				NEC
+			</Industry>
+
+			<Industry type="NAICS" order="1" reported="0" code="23411" mnem="">Highway and Street Construction
+			</Industry>
+
+			<Industry type="NAICS" order="2" reported="0" code="23541" mnem="">Masonry and Stone Contractors</Industry>
+
+			<Industry type="NAICS" order="3" reported="0" code="324121" mnem="">Asphalt Paving Mixture and Block
+				Manufacturing
+			</Industry>
+
+			<Industry type="NAICS" order="4" reported="0" code="53111" mnem="">Lessors of Residential Buildings and
+				Dwellings
+			</Industry>
+
+			<Industry type="NAICS" order="5" reported="0" code="531312" mnem="">Nonresidential Property Managers
+			</Industry>
+
+			<Industry type="NAICS" order="6" reported="0" code="53119" mnem="">Lessors of Other Real Estate Property
+			</Industry>
+
+			<Industry type="NAICS" order="7" reported="0" code="72111" mnem="">Hotels (except Casino Hotels) and
+				Motels
+			</Industry>
+
+			<Industry type="NAICS" order="8" reported="0" code="71391" mnem="">Golf Courses and Country Clubs</Industry>
+
+			<Industry type="SIC" order="1" reported="0" code="1611" mnem="">Highway And Street Construction</Industry>
+
+			<Industry type="SIC" order="2" reported="0" code="1741" mnem="">Masonry And Other Stonework</Industry>
+
+			<Industry type="SIC" order="3" reported="0" code="2951" mnem="">Asphalt Paving Mixtures/blocks</Industry>
+
+			<Industry type="SIC" order="4" reported="0" code="6513" mnem="">Apartment Building Operators</Industry>
+
+			<Industry type="SIC" order="5" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+
+			<Industry type="SIC" order="6" reported="0" code="6519" mnem="">Real Property Lessors, Nec</Industry>
+
+			<Industry type="SIC" order="7" reported="0" code="7011" mnem="">Hotels And Motels</Industry>
+
+			<Industry type="SIC" order="8" reported="0" code="7992" mnem="">Public Golf Courses</Industry>
+
+		</IndustryInfo>
+
+	</peerInfo>
+
+	<officers>
+
+		<officer rank="1" since="06/2007">
+
+			<firstName>Hiromi</firstName>
+
+			<mI></mI>
+
+			<lastName>Iwata</lastName>
+
+			<age>68</age>
+
+			<title startYear="2018" startMonth="06" startDay="22" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">
+				Chairman of the Board, Representative Director
+			</title>
+
+		</officer>
+
+		<officer rank="2" since="04/2012">
+
+			<firstName>Yoshikazu</firstName>
+
+			<mI></mI>
+
+			<lastName>Yoshikawa</lastName>
+
+			<age>63</age>
+
+			<title startYear="2018" startMonth="06" startDay="22" iD1="PRE" abbr1="Pres." iD2="DRC" abbr2="Dir.">
+				President, Chief Director of Construction Business, Chief Director of Overseas Business, Representative
+				Director
+			</title>
+
+		</officer>
+
+		<officer rank="3" since="06/2014">
+
+			<firstName>Akitsugu</firstName>
+
+			<mI></mI>
+
+			<lastName>Takahashi</lastName>
+
+			<age>63</age>
+
+			<title startYear="2016" startMonth="06" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="DRC" abbr2="Dir.">
+				Executive Vice President, Representative Director
+			</title>
+
+		</officer>
+
+		<officer rank="4" since="04/01/2013">
+
+			<firstName>Masahiro</firstName>
+
+			<mI></mI>
+
+			<lastName>Miyazaki</lastName>
+
+			<age>61</age>
+
+			<title startYear="2017" startMonth="04" startDay="01" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="DSL"
+				   abbr2="Dir.-Sales">Managing Executive Officer, Chief Director of 1st Sales, Director of 1st Sales,
+				Director
+			</title>
+
+		</officer>
+
+		<officer rank="5" since="04/01/2013">
+
+			<firstName>Akio</firstName>
+
+			<mI></mI>
+
+			<lastName>Arai</lastName>
+
+			<age>64</age>
+
+			<title startYear="2018" startMonth="06" startDay="22" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="DRC" abbr2="Dir.">
+				Managing Executive Officer, Chief Director of Technology, Deputy Chief Director of Pavement Business,
+				Director of General Technology, Director
+			</title>
+
+		</officer>
+
+		<officer rank="6" since="04/2014">
+
+			<firstName>Yuji</firstName>
+
+			<mI></mI>
+
+			<lastName>Hashimoto</lastName>
+
+			<age>61</age>
+
+			<title startYear="2018" startMonth="06" startDay="22" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="DRC" abbr2="Dir.">
+				Managing Executive Officer, Chief Director of Administration, Chief Director of Development Business,
+				Director
+			</title>
+
+		</officer>
+
+		<officer rank="7" since="NA">
+
+			<firstName>Osamu</firstName>
+
+			<mI></mI>
+
+			<lastName>Numajiri</lastName>
+
+			<age>59</age>
+
+			<title startYear="2018" startMonth="06" startDay="22" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="DRC" abbr2="Dir.">
+				Managing Executive Officer, Chief Director of Pavement Business, Director
+			</title>
+
+		</officer>
+
+		<officer rank="8" since="04/01/2012">
+
+			<firstName>Toshitaka</firstName>
+
+			<mI></mI>
+
+			<lastName>Akaike</lastName>
+
+			<age></age>
+
+			<title startYear="2018" startMonth="" startDay="" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="" abbr2="">Managing
+				Executive Officer, Manager of 1st Kanto Office
+			</title>
+
+		</officer>
+
+		<officer rank="9" since="NA">
+
+			<firstName>Kenji</firstName>
+
+			<mI></mI>
+
+			<lastName>Fukushima</lastName>
+
+			<age></age>
+
+			<title startYear="2018" startMonth="" startDay="" iD1="MEO" abbr1="Mgng.Ex.Off." iD2="" abbr2="">Managing
+				Executive Officer, Manager of Chubu Office
+			</title>
+
+		</officer>
+
+		<officer rank="10" since="NA">
+
+			<firstName>Susumu</firstName>
+
+			<mI></mI>
+
+			<lastName>Fujii</lastName>
+
+			<age></age>
+
+			<title startYear="2016" startMonth="" startDay="" iD1="DSL" abbr1="Dir.-Sales" iD2="EXO" abbr2="Ex.Off.">
+				Executive Officer, Director of 3rd Sales
+			</title>
+
+		</officer>
+
+	</officers>
+
+	<Ratios PriceCurrency="JPY" ReportingCurrency="JPY" ExchangeRate="1.00000" LatestAvailableDate="2019-03-31">
+
+		<Group ID="Price and Volume">
+
+			<Ratio FieldName="NPRICE" Type="N">2270.00000</Ratio>
+
+			<Ratio FieldName="NHIG" Type="N">2341.00000</Ratio>
+
+			<Ratio FieldName="NLOW" Type="N">1793.00000</Ratio>
+
+			<Ratio FieldName="PDATE" Type="D">2019-11-28T00:00:00</Ratio>
+
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13412</Ratio>
+
+			<Ratio FieldName="EV" Type="N">231539.20000</Ratio>
+
+		</Group>
+
+		<Group ID="Income Statement">
+
+			<Ratio FieldName="MKTCAP" Type="N">271042.20000</Ratio>
+
+			<Ratio FieldName="AREV" Type="N">413236.00000</Ratio>
+
+			<Ratio FieldName="AEBITD" Type="N">47142.00000</Ratio>
+
+			<Ratio FieldName="ANIAC" Type="N">25514.00000</Ratio>
+
+		</Group>
+
+		<Group ID="Per share data">
+
+			<Ratio FieldName="AEPSXCLXOR" Type="N">214.24720</Ratio>
+
+			<Ratio FieldName="AREVPS" Type="N">3470.04200</Ratio>
+
+			<Ratio FieldName="ABVPS" Type="N">2811.26800</Ratio>
+
+			<Ratio FieldName="ACSHPS" Type="N">346.03430</Ratio>
+
+			<Ratio FieldName="ACFSHR" Type="N">295.12100</Ratio>
+
+			<Ratio FieldName="ADIVSHR" Type="N">40.00000</Ratio>
+
+		</Group>
+
+		<Group ID="Other Ratios">
+
+			<Ratio FieldName="AGROSMGN" Type="N">16.51792</Ratio>
+
+			<Ratio FieldName="AROEPCT" Type="N">7.86202</Ratio>
+
+			<Ratio FieldName="APR2REV" Type="N">0.65590</Ratio>
+
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.59524</Ratio>
+
+			<Ratio FieldName="APRICE2BK" Type="N">0.80746</Ratio>
+
+			<Ratio FieldName="Employees" Type="N">6087</Ratio>
+
+		</Group>
+
+	</Ratios>
+
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2020" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2019"
+				  CurInterimEndMonth="12" EarningsBasis="REP">
+
+		<Ratio FieldName="ConsRecom" Type="N">
+
+			<Value PeriodType="CURR">2</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="TargetPrice" Type="N">
+
+			<Value PeriodType="CURR">2650.00000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+
+			<Value PeriodType="CURR">-99999.99000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjPE" Type="N">
+
+			<Value PeriodType="CURR">9.69050</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjSales" Type="N">
+
+			<Value PeriodType="CURR">425500.00000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjSalesQ" Type="N">
+
+			<Value PeriodType="CURR">-99999.99000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjEPS" Type="N">
+
+			<Value PeriodType="CURR">234.25000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjEPSQ" Type="N">
+
+			<Value PeriodType="CURR">-99999.99000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjProfit" Type="N">
+
+			<Value PeriodType="CURR">42000.00000</Value>
+
+		</Ratio>
+
+		<Ratio FieldName="ProjDPS" Type="N">
+
+			<Value PeriodType="CURR">40.00000</Value>
+
+		</Ratio>
+
+	</ForecastData>
+
+</ReportSnapshot>
